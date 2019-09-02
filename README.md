@@ -19,8 +19,6 @@ python 3.7
 
 - В терминале ввести команду: python manage.py migrate
 
-- В терминале ввести команду: python manage.py createsuperuser и пройти регистрацию
-
 - Запустить: python manage.py runserver
 
 - Перейти на localhost:8000, либо http://127.0.0.1:8000
