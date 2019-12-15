@@ -1,4 +1,4 @@
-# myblog
+# my_blog
 Сайт располагается по адресу: https://duha357.herokuapp.com
 
 ### Проверено на версии Python:
